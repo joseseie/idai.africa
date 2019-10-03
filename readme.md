@@ -22,7 +22,7 @@ Installation
 
 1. Install the above mentioned requirements.
 
-2. Download the source code to your computer
+2. Download the source code to your computer.
 
 3. Change directory to the root folder of the application. Update **composer** then run it in order to install the application dependencies. You may need root permissions to update composer.
     <blockquote>
